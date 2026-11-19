@@ -351,16 +351,3 @@ scontrol update NodeName=web1 State=RESUME
 
 ---
 
-## 👥 Project Team
-
-**Course:** High Performance Computing (`HPC-7111`) — University of Information Technology (UIT), Yangon  
-**Group:** `5HPC-506-Group1`
-
-| Name | Roll / TNT |
-| :--- | :--- |
-| Kyaw Zin Hein | 1935 |
-| Myat Noe Thu | 2022 |
-| Nang Thin Shwe Yee Law | 2107 |
-| Myat Myat Tun | 1971 |
-
-```
